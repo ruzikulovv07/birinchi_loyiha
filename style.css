@@ -1,0 +1,53 @@
+
+body{
+    background: linear-gradient(to right, orange, yellow, orange);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+form{
+    margin-left: 30%;
+    justify-content: center;
+    text-align: start;
+}
+label{
+    font-size: 25px;
+    text-align: start;
+    padding-right: 850px;
+}
+input{
+    border-radius: 5px;
+    justify-content: center;
+    text-align: start;
+    width: 60%;
+    height: 25px;
+}
+.nmadir{
+    border-radius: 5px;
+    width: 60%;
+    height: 25px;
+}
+textarea{
+    width: 60%;
+    height: 150px;
+    border-radius: 5px;
+}
+.heheboy{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    border-radius: none;
+    color: white;
+    border: none;
+    background-color: rgb(251, 189, 3);
+}
+
+.heheboy:hover{
+    background:none;
+    border: 3px solid rgb(251, 189, 3);
+    color: rgb(251, 189, 3);
+}
